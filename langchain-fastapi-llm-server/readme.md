@@ -214,7 +214,10 @@ This uses LangChain Expression Language (LCEL) to build modular LLM pipelines.
 - Add authentication (API key protection)  
 
 ---
+## Results:
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/68c20793-602d-416a-93de-6393c424fb2e" />
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/26f189c5-f1e4-4c54-bfb9-00509d26a45b" />
 ---
 
 ## 👩‍💻 Author
